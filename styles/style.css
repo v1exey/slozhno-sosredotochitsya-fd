@@ -165,6 +165,11 @@
   color: var(--decor-color);
 }
 
+.section__title_gallery {
+  color: var(--gallery-title-color);
+  background-color: var(--gallery-bg-color);
+}
+
 .section__cards {
   display: grid;
   gap: 20px;
@@ -186,7 +191,7 @@
   font-weight: normal;
 }
 
-.content__link {  
+.content__link {
   text-decoration: none;
   text-shadow: 2px 2px 0 var(--accent-color);
   transition: outline 0.3s ease;
@@ -354,7 +359,6 @@
     grid-column: span 2;
   }
 }
-
 
 
 

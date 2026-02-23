@@ -22,6 +22,8 @@
   --corner-color: #353430;
   --bg-image: url('../images/cover-image-light.png');
   --rec-display: none;
+  --gallery-title-color: #353430;
+  --gallery-bg-color: #ff8dcb;
 }
 
 @media (prefers-color-scheme: light) {
@@ -38,6 +40,8 @@
     --corner-color: #353430;
     --bg-image: url('../images/cover-image-light.png');
     --rec-display: none;
+    --gallery-title-color: #353430;
+    --gallery-bg-color: #ff8dcb;
   }
 }
 

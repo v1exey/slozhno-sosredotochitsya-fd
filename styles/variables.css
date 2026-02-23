@@ -23,5 +23,7 @@
   --bg-image: url("../images/cover-image-dark.png");
   --link-text-color: #f1b2ce;
   --rec-display: flex;
+  --gallery-title-color: #000028;
+  --gallery-bg-color: #ff0070;
 }
 
